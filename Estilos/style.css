@@ -1,0 +1,105 @@
+nav{
+background-color: chocolate;
+margin: 30px;
+padding: 15px;
+
+}
+.cuerpo{
+    margin: 25px;
+}
+
+h1{
+    background-color: #776bc0;
+    text-align: center;
+}
+img{
+    height: 150px;
+    width: 250px;
+}
+.uno{
+    background-color: #6495ed;
+    margin: 10px;
+    padding-left: 5px;
+}
+.uno:hover{
+    background-color: #7fc4ecda;
+    padding-left: 25px;
+    transition: all 0.5s;
+    margin-left: 0px;
+}
+.dos{
+    background-color: #6495ed;
+    margin: 10px;
+    padding-left: 5px;
+}
+.dos:hover{
+    background-color: #7fc4ecda;
+    padding-left: 25px;
+    transition: all 0.5s;
+    margin-left: 0px;
+}
+.tres{
+    background-color: #6495ed;
+    margin: 10px;
+    padding-left: 5px;
+}
+.tres:hover{
+    background-color: #7fc4ecda;
+    padding-left: 25px;
+    transition: all 0.5s;
+    margin-left: 0px;
+}
+.cuatro{
+    background-color: #6495ed;
+    margin: 10px;
+    padding-left: 5px;
+}
+.cuatro:hover{
+    background-color: #7fc4ecda;
+    padding-left: 25px;
+    transition: all 0.5s;
+    margin-left: 0px;
+}
+.lorem{
+   margin-left: 25px;
+   margin-right: 25px;
+}
+.roti{
+    margin: 15px;
+}
+.imagen2{
+    margin: 2px;
+    padding-left: 65%;
+    position: absolute;
+}
+.menu{
+    border-style: ridge;
+    border-color: dimgrey;
+    background-color: #6495ed ;
+    margin-right: 1000px;
+    border-radius: 5%;
+}
+.cremita{
+    background-color: #fdfcb1a8;
+    border-style: double;
+    border-color: #000000b2;
+}
+.cuerpo{
+    background-color: lavenderblush;
+    margin: 30px;
+}
+.quien{
+    margin-left: 8px;
+   margin-right: 8px;
+}
+.comentario{
+    padding-right: 250px;
+}
+nav:hover{
+    background-color: rgb(238, 116, 28);
+    margin: 10px;
+    padding: 30px;
+    transition: all 0.5s;
+    border-style: solid;
+    border-color: dimgrey;
+}

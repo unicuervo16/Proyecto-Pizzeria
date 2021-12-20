@@ -1,0 +1,58 @@
+.cuerpo{
+    background-color: #fdeab5;
+    margin: 0px;
+}
+.inicio{
+    margin: 15px;
+}
+.border{
+    border-radius: 45%;
+    border-style: groove;
+    margin: 45px;
+}
+.distancia{
+    margin-left: 45px;
+    background-color:#fce198 ;
+}
+.orden{
+background-color: rgb(238, 224, 220);
+margin: 25px;
+}
+.centrado{
+    text-align: center;
+    background-color: rgb(202, 74, 74);
+    padding: 10px;
+
+}
+.pizzas{
+    background-color:#fce198 ;
+}
+.mov{
+    margin: 10px;
+    padding: 2px;
+}
+.cl1{
+margin: 35px;
+}
+.move{
+    margin: 10px;
+}
+nav{
+    background-color: chocolate;
+    margin: 30px;
+    padding: 15px;
+    }
+nav:hover{
+    background-color: rgb(238, 116, 28);
+    margin: 10px;
+    padding: 30px;
+    transition: all 0.5s;
+    border-style: solid;
+    border-color: dimgrey;
+}
+.cl1:hover{
+    background-color: #f5dc97;
+    margin: 15px;
+    text-align: center;
+}
+
