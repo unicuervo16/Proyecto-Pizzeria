@@ -1,0 +1,27 @@
+.orden{
+    background-color: rgb(238, 224, 220);
+    }
+    .cuerpo{
+        background-color: rgb(233, 255, 255);
+        margin: 50px;
+    }
+    nav{
+        background-color: rgb(153, 224, 226);
+        margin: 30px;
+        padding: 15px;
+        }
+    nav:hover{
+        background-color: rgb(96, 133, 155);
+        margin: 10px;
+        padding: 30px;
+        transition: all 0.5s;
+        border-style: solid;
+        border-color: dimgrey;
+    }
+    .mov{
+    margin: 10px;
+    padding: 2px;
+}
+.move{
+    margin: 10px;
+}
